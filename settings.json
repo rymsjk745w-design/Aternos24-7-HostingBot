@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Oscarfaulk.aternos.me",
+    "port": 18760,
     "version": "",
     "try-creative": false
   },
